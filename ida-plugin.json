@@ -1,0 +1,25 @@
+{
+	"IDAMetadataDescriptorVersion": 1,
+	"plugin": {
+		"name": "Structline",
+		"entryPoint": "main.py",
+		"version": "1.0.0",
+		"description": "CLI-like plugin for lightning-fast struct member definition",
+		"logoPath": "icon.png",
+		"license": "MIT",
+		"categories": [
+			"ui-ux-and-visualization"
+		],
+		"urls": {
+			"repository": "https://github.com/libtero/structline"
+		},
+		"authors": [{
+			"name": "tero",
+			"email": "arttson@gmail.com"
+		}],
+		"keywords": [
+			"struct",
+			"helper"
+		]
+	}
+}
